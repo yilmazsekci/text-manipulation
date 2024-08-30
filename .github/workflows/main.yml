@@ -32,4 +32,4 @@ jobs:
         tags: yilmazsekci/text-manipulation:latest
 
     - name: Run Docker container
-      run: docker run --rm <DOCKER_HUB_KULLANICI_ADIN>/text-manipulation:latest
+      run: docker run --rm yilmazsekci/text-manipulation:latest
